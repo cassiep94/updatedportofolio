@@ -14,6 +14,14 @@ A group project that shows API's usage.
     - Zomato's API 
     - Geo-coding API on Rapidshare
 
+# Contributors
+
+    - Cassandra Perez
+    - Ahmed Bule
+    - John Leintz
+    - William Sorn
+
+    
 # Link 
 
 [Updatedportofolio](https://cassiep94.github.io/updatedportofolio/)
