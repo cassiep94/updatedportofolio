@@ -9,6 +9,10 @@ A group project that shows API's usage.
 ![screenshot](images/screenshot.png)
 
 
+# API's used
+
+    - Zomato's API 
+    - Geo-coding API on Rapidshare
 
 # Link 
 
